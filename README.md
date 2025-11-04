@@ -28,10 +28,10 @@ All valid calculators will be reviewed and merged 💫
 ---
 
 ## 🧰 Example Projects
-- `SimpleCalculator-C/` → Basic arithmetic calculator (C)  
+- `SimpleCalculator-C/` → Basic arithmetic calculator (C)
+- `SimpleCalculator-Java/` → Basic arithmetic calculator (Java) (Yep, you can re-create with another language)
 - `ScientificCalculator-Python/` → Handles trigonometric and logarithmic functions  
 - `GraphingCalculator-JS/` → Web-based interactive calculator  
-- `SimpleCalculator-Java/` → Basic arithmetic calculator (Java)
 
 ---
 
@@ -52,4 +52,3 @@ If you like this initiative, **give it a ⭐** and help make this the ultimate o
 | `SimpleCalculator-C` | C | [@B3rou](https://github.com/B3rou) |
 | `SimpleCalculator-Python` | Python | [@Sujal2114](https://github.com/Sujal2114) / [@B3rou](https://github.com/B3rou) (README.md file)| 
 | `TemperatureConverter-Java` | Java | [@Ayden939](https://github.com/Ayden939) |
-| `SimpleCalculator-Java` | Java | [@YourUsername](https://github.com/YourUsername) |
