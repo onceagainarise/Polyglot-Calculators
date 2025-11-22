@@ -41,6 +41,8 @@ h1 {
 }
 
 .display {
+    overflow-x: auto;
+    white-space: nowrap;
     background: #2c3e50;
     color: white;
     font-size: 2.5rem;
