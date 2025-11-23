@@ -48,7 +48,7 @@ If you like this initiative, **give it a ⭐** and help make this the ultimate o
 
 ## 🧰 Current Calculators
 
-Current Unique Contributor Amount is **39**!
+Current Unique Contributor Amount is **43**!
 
 
 | Calculator Name | Programming Language | Contributors |
@@ -70,7 +70,9 @@ Current Unique Contributor Amount is **39**!
 | `OhmsLawCalculator-Python-Daku3011` | Python | [@Daku3011](https://github.com/Daku3011) / [@B3rou](https://github.com/B3rou) |
 | `OhmsLawCalculator-Python-CrossGo14` | Python | [@CrossGo14](https://github.com/CrossGo14) / [@B3rou](https://github.com/B3rou) |
 | `OhmsLawCalculator-Python-NikhilYadav04`| Python | [@NikhilYadav04](https://github.com/NikhilYadav04) |
+| `Ohm-WaveCalculatorGUI-Python-Avnoor000` | Python | [@Avnoor000](https://github.com/Avnoor000) |
 | `BaseConverter-Python-calebjubal`| Python | [@calebjubal](https://github.com/calebjubal) |
+| `BaseConverter-Java-AlexandrAnatoliev`| Java | [@AlexandrAnatoliev](https://github.com/AlexandrAnatoliev) |
 | | | |
 | | | |
 | | | |
@@ -86,6 +88,7 @@ Current Unique Contributor Amount is **39**!
 | `DurationConverter-Java-rohithgowda18` | Java | [@rohithgowda18](https://github.com/rohithgowda18) |
 | `DurationConverter-C++-abdllahmaher` | C++ | [@abdllahmaher](https://github.com/abdllahmaher) |
 | `DurationConverter-Python-JuanManuel` | Python | [@MAXXIMUX12](https://github.com/MAXXIMUX12) |
+| `DurationConverter-Python-Sockney89` | Python | [@Sockney89](https://github.com/Sockney89)|
 | `DataStorageConverter-Python-ifauzeee` | Python | [@ifauzeee](https://github.com/ifauzeee) |
 | `DataStorageConverter-Python-jaideepkathiresan` | Python | [@jaideepkathiresan](https://github.com/jaideepkathiresan) |
 | `DataStorageConverter-Java-umer901` | Java | [@umer901](https://github.com/umer901) |
@@ -97,7 +100,7 @@ Current Unique Contributor Amount is **39**!
 | `DistanceConverter-Python-Jeevaanandh` | Python | [@Jeevaanandh](https://github.com/Jeevaanandh) |
 | `MassConverter-Java-SimpleChap` | Java | [@SimpleChap](https://github.com/SimpleChap) |
 | `MassConverter-Java-rohithgowda18` | Java | [@rohithgowda18](https://github.com/rohithgowda18) |
-| `DurationConverter-Python-Sockney89` | Python | [@Sockney89](https://github.com/Sockney89)|
+| `MassConverter-Python-abarlow4944` | Python | [@abarlow4944](https://github.com/abarlow4944) |
 | | | |
 | | | |
 | | | |
@@ -117,5 +120,7 @@ Current Unique Contributor Amount is **39**!
 | `SimpleCalculatorCLI-Java-Perouvianoss` | Java | [@Perouvianoss](https://github.com/Perouvianoss) |
 | `SimpleCalculatorCLI-Java-AlexandrAnatoliev` | Java | [@AlexandrAnatoliev](https://github.com/AlexandrAnatoliev) |
 | `SimpleCalculatorGUI-Web-ifauzeee` | Html/Js/Css | [@ifauzeee](https://github.com/ifauzeee) |
+| `SimpleCalculatorGUI-Web-MuskanSoni-Code` | Html/Js/Css | [@MuskanSoni-Code](https://github.com/MuskanSoni-Code) / [@B3rou](https://github.com/B3rou) |
+| `SimpleCalculatorGUI-Web-Audyari` | Html/Js/Css | [@Audyari](https://github.com/Audyari) |
 | `SimpleCalculatorCLI-C++-Daku3011` | C++ | [@Daku3011](https://github.com/Daku3011) |
 | `SimpleCalculatorCLI-C++-Voyger2` | C++ | [@Voyger2](https://github.com/Voyger2) |
